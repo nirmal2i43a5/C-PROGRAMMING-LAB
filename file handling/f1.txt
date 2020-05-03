@@ -1,0 +1,6 @@
+Name    = nirmal
+Age     = 25
+Salary  = 1500.00
+Name    = Niraj
+Age     = 25
+Salary  = 2500.00
